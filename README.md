@@ -11,3 +11,4 @@ The ``JTable`` of this program has 2 rows: the first row is checkboxes and the o
 Above the ``JTable``, there are 3 ``JButton``s and 1 ``JTextField``: you can put a to-do thing in ``JTextField`` and  
 edit it via ``JButton``.
 
+<img src="./Example.png" width="500"/>
